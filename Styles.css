@@ -1,0 +1,27 @@
+body{ /*Cuerpo de la pagina  - este es un comentario*/
+    background:#5F82F2;/*color de fondo azul*/
+  }
+
+header{/* encabezado*/
+background:#FA58F4;/*rosa*/
+}
+
+nav{  /* menu de opciones*/
+background:#EFA7F2;/*rosa claro*/
+}
+
+section{ /*area principal del contenido de la pagina*/
+background:#EFA46B; /*color melon*/
+}
+
+article{ /*divisiones del section*/
+background:#EF356B;/*fiushia*/
+}
+
+aside{ /*area lateral para colocar publicidad*/
+background:#EFE66B;/*amarillo*/
+}
+
+footer{ /*pie de pagina*/
+background:#EF5182;
+}
